@@ -6,3 +6,5 @@ data = {
     "City": ["Flint", "Detroit", "Columbus"],
 }
 df = pd.DataFrame(data)
+
+df.head(2)
